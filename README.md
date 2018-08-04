@@ -10,6 +10,7 @@ finds the shortest path between them and estimates the time it would take to get
 
 
 Below is an example of the algorithm in use.
+<br/>
 <img src="https://github.com/levipomeroy/Shortest-Path-Calculator/blob/master/Screenshot.PNG?raw=true" height="400" width="550" />
 
 
